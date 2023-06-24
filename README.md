@@ -1,8 +1,23 @@
-### Hi there 👋
+Hi coders! i'm @disconnectuss
+Junior Frontend Developer | React | React Native | TypeScript
 
-I'm @disconnectuss or Fatma, an English teacher turned web developer. While teaching has always been my passion, I've recently discovered my love for coding and web development. I'm currently focused on mastering the React front-end framework, and I've been using and learning HTML, CSS, SCSS, Bootstrap, JavaScript, Redux, and React to build dynamic and engaging web applications.
+Experienced English Teacher turned Junior Frontend Developer with a strong passion for building engaging and user-friendly web applications. Skilled in HTML, CSS, Sass/SCSS, Bootstrap, and proficient in React, React Native, and TypeScript.
 
-As an extroverted and sociable person, I thrive in collaborative environments and enjoy working with teams to create innovative solutions. I'm excited to apply my communication and problem-solving skills to the world of web development, and I'm constantly seeking new challenges and opportunities to grow my skills.
+With over four months of hands-on experience in frontend web development, I bring a unique blend of technical expertise and effective communication skills honed over a decade of teaching English. I thrive in collaborative environments and excel in delivering intuitive solutions that meet user needs.
 
-In my free time, I love to stay active and explore new places. Whether it's hiking in the mountains or trying out a new restaurant in town, I'm always up for an adventure. Thanks for stopping by my portfolio, and I look forward to connecting with you!
+My proficiency in English ensures seamless communication across multicultural and international teams. I am committed to continuously enhancing my skill set and staying up-to-date with the latest industry trends and best practices.
+
+Key Skills:
+
+Frontend Development: React, React Native, TypeScript
+
+Web Technologies: HTML, CSS, Sass/SCSS, Bootstrap
+
+Effective Communication: Multilingual fluency, collaborative mindset
+
+Problem-solving: Analytical thinking, attention to detail
+
+Adaptability: Quick learner, open to new challenges
+
+Passionate about creating exceptional user experiences, I am now seeking opportunities to contribute to innovative projects that push the boundaries of frontend development. If you are looking for a dedicated and adaptable team member, let's connect!
 
