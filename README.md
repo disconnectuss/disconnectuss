@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'am currently working on React and React Native Software Development<br>I'm looking to collaborate on Arabuleu<br>I'm currently continue improve myself<br>You can ask me about React , React Native , HTML , CSS
+I'am currently working on React Software Development<br>I'm looking to collaborate on Arabuleu<br>I'm currently continue improve myself<br>You can ask me about React  , HTML , CSS
 
 
 ## 🌐 Socials:
