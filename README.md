@@ -1,26 +1,17 @@
 # 💫 About Me:
-React Frontend Web Developer
-Experienced English Teacher turned a frontend developer with a strong passion for building engaging and user-friendly web applications. Skilled in HTML, CSS, Sass/SCSS, Bootstrap, Javascript and proficient in React Js.
+👩‍💻 Fatma Aktas | React & React Native Developer
 
-I bring a unique blend of technical expertise and effective communication skills honed over a decade of teaching English. I thrive in collaborative environments and excel in delivering intuitive solutions that meet user needs.
+🌟 Dedicated software developer with a passion for crafting compelling web and mobile experiences.
 
-My proficiency in English ensures seamless communication across multicultural and international teams. I am committed to continuously enhancing my skill set and staying up-to-date with the latest industry trends and best practices.
+🎨 Skilled in React, Redux, and React Native, with expertise in building efficient and intuitive user interfaces.
 
-Key Skills:
+💡 Known for adaptability and strong communication skills honed through years of teaching experience.
 
-Frontend Development: React, React Native, TypeScript
+🚀 Thrives in collaborative environments, leveraging creativity and empathy to drive successful outcomes.
 
-Web Technologies: HTML, CSS, Sass/SCSS, Bootstrap, Javascript
+🔍 Currently exploring the latest technologies both for frontend and backend site for web and current changes, pros of React Native in sense of mobile apps and best optimization.
 
-Effective Communication: Multilingual fluency, collaborative mindset
-
-Problem-solving: Analytical thinking, attention to detail
-
-Adaptability: Quick learner, open to new challenges
-
-Passionate about creating exceptional user experiences, I am now seeking opportunities to contribute to innovative projects that push the boundaries of frontend development. If you are looking for a dedicated and adaptable team member, let's connect!
-
-Contact me at [faktas2021@gmail.com]
+Let's connect! 💬 faktas2021@gmail.com | 🛠️
 
 
 
