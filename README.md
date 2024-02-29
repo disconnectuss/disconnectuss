@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 👩‍💻 Fatma Aktas | React & React Native Developer
 
 🌟 Dedicated software developer with a passion for crafting compelling web and mobile experiences.
