@@ -1,88 +1,15 @@
-import React from 'react';
-import { Mail, Github, Linkedin, Globe, Phone } from 'lucide-react';
+# Fatma Aktas
+# Full Stack Developer
 
-const AboutMe = () => {
-  const skills = {
-    frontend: ['React.js', 'Next.js', 'Redux', 'Tailwind CSS', 'HTML5/CSS3', 'JavaScript/TypeScript'],
-    mobile: ['React Native', 'Mobile UI/UX', 'App Performance Optimization'],
-    backend: ['Node.js', 'Express.js', 'MongoDB', 'RESTful APIs'],
-    tools: ['Git', 'VS Code', 'Jira', 'Figma']
-  };
+# About Me
+- Dedicated software developer with expertise in building compelling web and mobile experiences. 
+- Specializing in React and React Native development, creating efficient and intuitive user interfaces while maintaining a strong foundation in full-stack development with Node.js and MongoDB.
 
-  return (
-    <div className="max-w-4xl mx-auto p-6 space-y-8">
-      {/* Header Section */}
-      <div className="text-center space-y-4">
-        <h1 className="text-4xl font-bold">Fatma Aktas</h1>
-        <h2 className="text-2xl text-blue-600">Full Stack Developer</h2>
-        <p className="text-gray-600">Specializing in React, React Native, and Full Stack Development</p>
-      </div>
-
-      {/* About Section */}
-      <div className="bg-white rounded-lg shadow-lg p-6 space-y-6">
-        <div className="space-y-4">
-          <h3 className="text-xl font-semibold border-b pb-2">About Me</h3>
-          <p className="text-gray-700 leading-relaxed">
-            Dedicated software developer with expertise in building compelling web and mobile experiences. 
-            I specialize in React and React Native development, creating efficient and intuitive user interfaces 
-            while maintaining a strong foundation in full-stack development with Node.js and MongoDB.
-          </p>
-        </div>
-
-        {/* Skills Grid */}
-        <div className="grid md:grid-cols-2 gap-6">
-          {Object.entries(skills).map(([category, categorySkills]) => (
-            <div key={category} className="space-y-2">
-              <h4 className="text-lg font-medium capitalize">{category}</h4>
-              <div className="flex flex-wrap gap-2">
-                {categorySkills.map(skill => (
-                  <span 
-                    key={skill}
-                    className="px-3 py-1 bg-blue-100 text-blue-800 rounded-full text-sm"
-                  >
-                    {skill}
-                  </span>
-                ))}
-              </div>
-            </div>
-          ))}
-        </div>
-
-        {/* Contact Section */}
-        <div className="space-y-4">
-          <h3 className="text-xl font-semibold border-b pb-2">Let's Connect</h3>
-          <div className="flex flex-wrap gap-4">
-            <a 
-              href="mailto:faktas2021@gmail.com"
-              className="flex items-center gap-2 text-gray-700 hover:text-blue-600 transition-colors"
-            >
-              <Mail size={20} />
-              <span>faktas2021@gmail.com</span>
-            </a>
-            <div className="flex gap-4">
-              <Globe size={20} className="text-gray-700 hover:text-blue-600 cursor-pointer" />
-              <Github size={20} className="text-gray-700 hover:text-blue-600 cursor-pointer" />
-              <Linkedin size={20} className="text-gray-700 hover:text-blue-600 cursor-pointer" />
-            </div>
-          </div>
-        </div>
-      </div>
-
-      {/* Current Focus */}
-      <div className="bg-gradient-to-r from-blue-50 to-indigo-50 rounded-lg p-6">
-        <h3 className="text-xl font-semibold mb-4">Current Focus</h3>
-        <ul className="space-y-2 text-gray-700">
-          <li>• Exploring latest frontend and backend technologies</li>
-          <li>• Optimizing React Native mobile applications</li>
-          <li>• Building scalable full-stack solutions</li>
-          <li>• Enhancing UI/UX design skills</li>
-        </ul>
-      </div>
-    </div>
-  );
-};
-
-export default AboutMe;
+# Current Focus
+• Exploring latest frontend and backend technologies
+• Optimizing React Native mobile applications
+• Building scalable full-stack solutions
+• Enhancing UI/UX design skills
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatmaakts) 
