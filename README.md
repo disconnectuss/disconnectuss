@@ -6,10 +6,10 @@
 - Specializing in React and React Native development, creating efficient and intuitive user interfaces while maintaining a strong foundation in full-stack development with Node.js and MongoDB.
 
 # Current Focus
-• Exploring latest frontend and backend technologies
-• Optimizing React Native mobile applications
-• Building scalable full-stack solutions
-• Enhancing UI/UX design skills
+- Exploring latest frontend and backend technologies
+- Optimizing React Native mobile applications
+- Building scalable full-stack solutions
+- Enhancing UI/UX design skills
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatmaakts) 
