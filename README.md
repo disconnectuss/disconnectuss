@@ -1,5 +1,11 @@
-# 💫 About Me:
-- Dedicated software developer with expertise in building compelling web and mobile experiences. <br>- Specializing in React and React Native development, creating efficient and intuitive user interfaces while maintaining a strong foundation in full-stack development with Node.js and MongoDB.<br># Current Focus<br>- Exploring latest frontend and backend technologies<br>- Optimizing React Native mobile applications<br>- Building scalable full-stack solutions<br>- Enhancing UI/UX design skills
+# 💫 Fatma AKTAS| Full Stack Dev
+- Dedicated software developer with expertise in building compelling web and mobile experiences. <br>
+- Specializing in React and React Native development, creating efficient and intuitive user interfaces while maintaining a strong foundation in full-stack development with Node.js and MongoDB.<br>
+# Current Focus<br>
+- Exploring latest frontend and backend technologies<br>
+- Optimizing React Native mobile applications<br>
+- Building scalable full-stack solutions<br>
+- Enhancing UI/UX design skills
 
 
 ## 🌐 Socials:
