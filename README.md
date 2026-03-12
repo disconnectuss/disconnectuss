@@ -18,9 +18,8 @@ Full stack developer focused on building web and mobile applications across the 
 - Backend services with NestJS and Go
 - Scalable full-stack solutions
 
-## Connect
+[Portfolio](https://fatmaaktas.dev) 
 
-[LinkedIn](www.linkedin.com/in/fatmaakts) · [Portfolio](https://fatmaaktas.dev)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/fatmaakts) 
 
