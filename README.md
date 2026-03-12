@@ -1,13 +1,26 @@
-# 💫 Fatma AKTAS| Full Stack Dev
-- Dedicated software developer with expertise in building compelling web and mobile experiences. <br>
-- Specializing in React and React Native development, creating efficient and intuitive user interfaces while maintaining a strong foundation in full-stack development with Node.js and MongoDB.<br>
-# Current Focus<br>
-- Exploring latest frontend and backend technologies<br>
-- Optimizing React Native mobile applications<br>
-- Building scalable full-stack solutions<br>
-- Enhancing UI/UX design skills
+# Fatma Aktas — Full Stack Developer
 
+Full stack developer focused on building web and mobile applications across the entire stack — from UI to infrastructure.
 
+## Tech Stack
+
+**Frontend** — React, Next.js, TypeScript  
+**Mobile** — React Native (iOS & Android)  
+**Backend** — Node.js, NestJS, Go  
+**Databases** — MongoDB, PostgreSQL, SQL, NoSQL  
+**DevOps & Cloud** — AWS, Cloudflare, Docker  
+**Architecture** — Design Patterns, Scalable System Design
+
+## Current Focus
+
+- Next.js app development and architecture
+- Cross-platform mobile apps with React Native
+- Backend services with NestJS and Go
+- Scalable full-stack solutions
+
+## Connect
+
+[LinkedIn](https://linkedin.com/in/yourhandle) · [Portfolio](https://fatmaaktas.dev)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/fatmaakts) 
 
