@@ -15,7 +15,7 @@ Full stack developer focused on building web and mobile applications across the 
 
 - Next.js app development and architecture
 - Cross-platform mobile apps with React Native
-- Backend services with NestJS and Go
+- Backend services with Node.js, NestJS and Go
 - Scalable full-stack solutions
 
 [Portfolio](https://fatmaaktas.dev) 
