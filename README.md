@@ -71,8 +71,11 @@ Now I do the same with code, across four languages and five industries.
 
 ## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=disconnectuss&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=disconnectuss&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=disconnectuss&theme=dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=disconnectuss&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=disconnectuss&theme=dark&hide_border=true)
 
 ---
 
@@ -80,4 +83,3 @@ Now I do the same with code, across four languages and five industries.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://fatmaaktas.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/fatmaakts)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/_disconnectuss)
