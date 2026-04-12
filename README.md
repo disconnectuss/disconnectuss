@@ -11,10 +11,10 @@ Now I do the same with code, across four languages and five industries.
 
 | Product | Domain | Stack |
 |---|---|---|
-| [Sarj La]([https://apps.apple.com/app/sarj-la](https://apps.apple.com/tr/app/sarj-la/id6760123341?l=tr)) | EV charging route planner | React Native · Expo |
+| [Sarj La](https://apps.apple.com/tr/app/sarj-la/id6760123341?l=tr) | EV charging route planner | React Native · Expo |
 | Routecontrol | Enterprise fleet management · Yukatel DE | Next.js · TypeScript |
-| [Olio Basso](https://www.oliobassofranto.com) | E-commerce frontend · Foodiestrip IT | Next.js · TypeScript |
-| Comune | Municipal mobile app · San Benedetto del Tronto IT | React Native |
+| [Olio Basso](https://oliobasso.com/) | E-commerce frontend · Foodiestrip IT | Next.js · TypeScript · Node.js |
+| Comune | Municipal mobile app · San Benedetto del Tronto IT | React Native · Node.js |
 
 ---
 
@@ -40,9 +40,14 @@ Next.js · React · TypeScript · React Native · Expo
 Node.js · NestJS · Go
 ```
 
-**Data & Infra**
+**Data**
 ```
-PostgreSQL · MongoDB · AWS · Docker · Cloudflare
+PostgreSQL · MongoDB
+```
+
+**DevOps & Cloud**
+```
+AWS · Docker · Cloudflare · GitHub Actions · Nginx
 ```
 
 ---
@@ -50,7 +55,7 @@ PostgreSQL · MongoDB · AWS · Docker · Cloudflare
 ## Now
 
 - → Remote with European clients (DE · IT)
-- → Enterprise fleet platform + F&B e-commerce  
+- → Enterprise fleet platform + F&B e-commerce
 - → Expanding into Go for backend services
 
 ---
@@ -64,5 +69,4 @@ PostgreSQL · MongoDB · AWS · Docker · Cloudflare
 
 **Languages spoken:** TR · DE · EN · IT  
 **Portfolio:** [fatmaaktas.dev](https://fatmaaktas.dev)  
-**LinkedIn:** [linkedin.com/in/fatmaakts](https://linkedin.com/in/fatmaakts)  
-**X/Twitter:** [@_disconnectuss](https://x.com/_disconnectuss)
+**LinkedIn:** [linkedin.com/in/fatmaakts](https://linkedin.com/in/fatmaakts)
