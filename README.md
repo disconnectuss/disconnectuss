@@ -1,6 +1,6 @@
 # Fatma Aktas
 
-Full stack developer. Web, mobile, and everything the stack demands.
+Full stack developer. Web, mobile, and backend solutions.
 
 Former English teacher — 10 years of making complex things clear.  
 Now I do the same with code, across four languages and five industries.
@@ -50,6 +50,8 @@ Now I do the same with code, across four languages and five industries.
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 
 **DevOps & Cloud**
 
