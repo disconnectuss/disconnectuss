@@ -65,9 +65,9 @@ Now I do the same with code, across four languages and five industries.
 
 ## Now
 
-- → Remote with European clients (DE · IT)
-- → Enterprise fleet platform + F&B e-commerce
-- → Expanding into Go for backend services
+ → Remote with European clients (DE · IT)
+ → Enterprise fleet platform + F&B e-commerce
+ → Expanding into Go for backend services
 
 ---
 
