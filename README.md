@@ -12,9 +12,9 @@ Now I do the same with code, across four languages and five industries.
 | Product | Domain | Stack |
 |---|---|---|
 | [Sarj La](https://apps.apple.com/tr/app/sarj-la/id6760123341?l=tr) | EV charging route planner | React Native · Expo |
-| Routecontrol | Enterprise fleet management · Yukatel DE | Next.js · TypeScript |
+| [Routecontrol](https://routecontrol.de/) | Enterprise fleet management · Yukatel DE | Next.js · TypeScript |
 | [Olio Basso](https://oliobasso.com/) | E-commerce frontend · Foodiestrip IT | Next.js · TypeScript · Node.js |
-| Comune | Municipal mobile app · San Benedetto del Tronto IT | React Native · Node.js |
+| Comune | Municipal mobile app · San Benedetto del Tronto IT | React Native · Node.js | 
 
 ---
 
