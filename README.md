@@ -14,7 +14,7 @@ Now I do the same with code, across four languages and five industries.
 | [Sarj La](https://apps.apple.com/tr/app/sarj-la/id6760123341?l=tr) | EV charging route planner | React Native · Expo |
 | [Routecontrol](https://routecontrol.de/) | Enterprise fleet management · Yukatel DE | Next.js · TypeScript |
 | [Olio Basso](https://oliobasso.com/) | E-commerce frontend · Foodiestrip IT | Next.js · TypeScript · Node.js |
-| Comune | Municipal mobile app · San Benedetto del Tronto IT | React Native · Node.js | 
+| Spidit | Municipal mobile event app · San Benedetto del Tronto IT | React Native · Node.js | 
 
 ---
 
@@ -24,7 +24,7 @@ Now I do the same with code, across four languages and five industries.
 `Insurance` — Euroansa  
 `Fleet & Mobility` — Routecontrol · Sarj La  
 `F&B & E-commerce` — Olio Basso · POS app  
-`Event & Civic Tech` — Didiyos · Comune
+`Event & Civic Tech` — Didiyos · Spidit
 
 ---
 
