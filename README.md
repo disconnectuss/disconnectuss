@@ -1,6 +1,6 @@
 # Fatma Aktas
 
-Full stack developer. Web, mobile, and backend solutions.
+Full stack & mobile developer. Web, mobile, and backend solutions — now building AI integrations.
 
 Former English teacher — 10 years of making complex things clear.  
 Now I do the same with code, across four languages and five industries.
@@ -11,8 +11,10 @@ Now I do the same with code, across four languages and five industries.
 
 | Product | Domain | Stack |
 |---|---|---|
-| [Sarj La](https://apps.apple.com/tr/app/sarj-la/id6760123341?l=tr) | EV charging route planner | React Native · Expo |
-| [Routecontrol](https://routecontrol.de/) | Enterprise fleet management · Yukatel DE | Next.js · TypeScript |
+| [Şarj-La](https://sarj-la.nomatterlab.com/en) | EV charging route planner · web, iOS, Android | React Native · Expo · Next.js |
+| [ALMET](https://almet.nomatterlab.com/en/) | Voice speed-limit assistant · iOS | React Native · Expo · TypeScript |
+| [expo-ship-kit](https://github.com/disconnectuss/expo-ship-kit.skills) | Open-source agent skills for Expo releases | Node.js · Agent Skills |
+| [Routecontrol](https://routecontrol.de/) | Enterprise fleet management · Yukatel DE (at YUKATech) | Next.js · TypeScript |
 | [Olio Basso](https://oliobasso.com/) | E-commerce frontend · Foodiestrip IT | Next.js · TypeScript · Node.js |
 | Spidit | Municipal mobile event app · San Benedetto del Tronto IT | React Native · Node.js | 
 
@@ -22,7 +24,7 @@ Now I do the same with code, across four languages and five industries.
 
 `Fintech` — Fibabanka  
 `Insurance` — Euroansa  
-`Fleet & Mobility` — Routecontrol · Sarj La  
+`Fleet & Mobility` — Routecontrol · Şarj-La · ALMET  
 `F&B & E-commerce` — Olio Basso · POS app  
 `Event & Civic Tech` — Didiyos · Spidit
 
@@ -65,8 +67,9 @@ Now I do the same with code, across four languages and five industries.
 
 ## Now
 
- → Remote with European clients (DE · IT)
- → Enterprise fleet platform + F&B e-commerce
+ → Frontend developer at YUKATech, building Routecontrol for Yukatel (DE)
+ → Full-stack contract with rePeer (IT): Spidit and F&B e-commerce
+ → Building AI integrations: LLM APIs in app features, agent skills
  → Expanding into Go for backend services
 
 ---
